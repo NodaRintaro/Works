@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CoinInstantiate : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     [SerializeField] GameObject _coin;
     Vector3 _insPos;
